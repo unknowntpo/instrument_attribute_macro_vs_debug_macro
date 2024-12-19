@@ -1,6 +1,6 @@
 
 
-# Compare the performance between using `instrument` attribute and using `debug!` for logging
+# Compare the performance between using `instrument` attribute macro and using `debug!` macro for logging
 
 Run tests with:
 
